@@ -1,4 +1,4 @@
-package Exercises.OOP.Polymorphism.MoviesRandomize;
+package main.java.Exercises.OOP.Polymorphism.Lesson3;
 
         // Visos klasės bus sukurtos Main.java tai apsimoka daryti tuomet, kai jos yra
         // mažos bei kompaktiškos ir nebus naudojamos niekur kitur.

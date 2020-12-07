@@ -1,4 +1,4 @@
-package Exercises.OOP.Polymorphism.CarAnalogy;
+package main.java.Exercises.OOP.Polymorphism.Lesson2;
 
 class Car {
     private boolean engine;
@@ -65,7 +65,7 @@ public class Main {
         System.out.println(car.brake());
 
         System.out.println("\nBMW CREATION\n");
-        BMW bmwx3 = new BMW(6, "BMW X7");
+        BMW bmwx3 = new BMW(6, "BMW X3");
         System.out.println(bmwx3.accelerate());
         System.out.println(bmwx3.startEngine());
         System.out.println(bmwx3.brake());
