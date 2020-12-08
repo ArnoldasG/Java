@@ -1,4 +1,4 @@
-package Exercises.OOP.Escapsulation;
+package main.java.Exercises.OOP.Encapsulation;
 
 public class Player {
     // 1. Sukuriam keleta kintamųjų (variables)

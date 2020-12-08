@@ -1,4 +1,4 @@
-package Exercises.OOP.Escapsulation;
+package main.java.Exercises.OOP.Encapsulation;
 
 public class Main {
     public static void main (String[] args) {
