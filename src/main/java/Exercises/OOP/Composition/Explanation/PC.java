@@ -1,4 +1,4 @@
-package main.java.Exercises.OOP.Constructors.Explanation;
+package main.java.Exercises.OOP.Composition.Explanation;
 
 public class PC {
     private Case theCase;

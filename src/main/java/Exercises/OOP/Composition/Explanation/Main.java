@@ -1,4 +1,4 @@
-package main.java.Exercises.OOP.Constructors.Explanation;
+package main.java.Exercises.OOP.Composition.Explanation;
 
 public class Main {
     public static void main(String[] args) {
