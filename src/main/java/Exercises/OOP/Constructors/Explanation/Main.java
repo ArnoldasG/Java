@@ -11,8 +11,6 @@ public class Main {
         Motherboard theMotherboard = new Motherboard("3080", "RTX", 16, 6, "v2.44");
 
         PC thePC = new PC(theCase, theMonitor, theMotherboard);
-        thePC.getMonitor().drawPixelAt(1500, 1200, "red");
-        thePC.getMotherboard().loadProgram("Macintosh");
-        thePC.getTheCase().pressPowerButton();
+       thePC.powerUp();
     }
 }
