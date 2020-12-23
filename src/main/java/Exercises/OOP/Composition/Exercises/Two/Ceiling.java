@@ -1,4 +1,4 @@
-package main.java.Exercises.OOP.Composition.Exercise;
+package main.java.Exercises.OOP.Composition.Exercises.Two;
 
 public class Ceiling {
     private int height;

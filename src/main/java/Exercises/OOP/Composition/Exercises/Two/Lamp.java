@@ -1,4 +1,4 @@
-package main.java.Exercises.OOP.Composition.Exercise;
+package main.java.Exercises.OOP.Composition.Exercises.Two;
 
 public class Lamp {
     private String style;
@@ -11,19 +11,16 @@ public class Lamp {
         this.globRating = globRating;
     }
 
+    public void turnOn(){
+        System.out.println("The lamp is being turned on..");
+    }
     public String getStyle() {
         return style;
     }
-
     public boolean isBattery() {
         return battery;
     }
-
     public int getGlobRating() {
         return globRating;
-    }
-
-    public void turnOn() {
-        System.out.println("Lamp -> Turning on");
     }
 }

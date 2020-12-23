@@ -1,4 +1,4 @@
-package main.java.Exercises.OOP.Composition.Exercise;
+package main.java.Exercises.OOP.Composition.Exercises.Two;
 
 public class Wall {
     private String direction;
@@ -10,4 +10,5 @@ public class Wall {
     public String getDirection() {
         return direction;
     }
+
 }

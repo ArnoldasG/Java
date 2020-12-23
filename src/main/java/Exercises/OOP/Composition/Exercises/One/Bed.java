@@ -1,4 +1,4 @@
-package main.java.Exercises.OOP.Composition.Exercise;
+package main.java.Exercises.OOP.Composition.Exercises.One;
 
 public class Bed {
     private String style;

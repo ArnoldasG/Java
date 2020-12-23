@@ -1,4 +1,4 @@
-package main.java.Exercises.OOP.Composition.Exercise;
+package main.java.Exercises.OOP.Composition.Exercises.Two;
 
 public class Bedroom {
     private String name;
@@ -21,11 +21,11 @@ public class Bedroom {
         this.lamp = lamp;
     }
 
-    public Lamp getLamp() {
+    public Lamp  getLamp() {
         return this.lamp;
     }
     public void makeBed() {
-        System.out.println("Bedroom -> Making bed");
+        System.out.println("Bed is being made");
         bed.make();
     }
 }
