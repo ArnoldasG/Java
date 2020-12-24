@@ -1,4 +1,4 @@
-package Exercises.OOP.Inheritance;
+package main.java.Exercises.OOP.Inheritence.Explanation;
 
 // 12. Sukuriam dar vieną papildomą klasę "Fish"
 public class Fish extends Animal{
