@@ -29,6 +29,10 @@ public class MobilePhone {
             // ir jeigu tokio kontakto nėra grąžinam, kad jo nėra
             System.out.println(oldContact.getName() + "was not found.");
             return false;
+        } else if (findContact(newContact.getName()) != -1) {
+            System.out.println("Contact with name " + newContact.getName() +
+                    " already exists. Update was not successful.");
+            return false;
         }
         // jeigu kontaktą rado, mes jį pakeičiam nauju kontaktu.
         this.myContacts.set(foundPosition, newContact);
