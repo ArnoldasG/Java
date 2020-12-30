@@ -1,4 +1,4 @@
-package main.java.Exercises.Arrays.ArrayList.MobilePhone;
+package main.java.Exercises.ArraysAutoUnBoxing.ArrayList.MobilePhone;
 
 // Create a program that implements a simple mobile phone with the following capabilities.
 // Able to store, modify, remove and query contact names.
