@@ -1,4 +1,4 @@
-package main.java.Exercises.InnerAbstractInterface;
+package main.java.Exercises.InnerAbstractInterface.InterfacePhone;
 
 public class Main {
     public static void main(String[] args) {
