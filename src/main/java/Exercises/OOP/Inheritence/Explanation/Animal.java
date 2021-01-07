@@ -1,4 +1,4 @@
-package Exercises.OOP.Inheritance;
+package main.java.Exercises.OOP.Inheritence.Explanation;
 
 public class Animal {
 
