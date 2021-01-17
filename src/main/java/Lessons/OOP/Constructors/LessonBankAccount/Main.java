@@ -1,4 +1,4 @@
-package Exercises.OOP.Constructors.LessonBankAccount;
+package Lessons.OOP.Constructors.LessonBankAccount;
 /*
 
 public class Main {

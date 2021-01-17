@@ -1,4 +1,4 @@
-package main.java.Lessons.OOP.Composition.Exercises.One;
+package Lessons.OOP.Composition.Exercises.One;
 
 public class Wall {
     private String direction;

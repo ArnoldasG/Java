@@ -1,4 +1,4 @@
-package main.java.Lessons.Operators;
+package Lessons.Operators;
 
 // Operators - (+),(-),(*),(/)
 // Operands - (15) + (12) arba (hoursWorked) - (hourlyRate)

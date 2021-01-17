@@ -1,4 +1,4 @@
-package main.java.Lessons.ArraysAutoUnBoxing.ArrayList.MobilePhone;
+package Lessons.ArraysAutoUnBoxing.ArrayList.MobilePhone;
 
 public class Contact {
     private String name;

@@ -1,4 +1,4 @@
-package main.java.Lessons.ArraysAutoUnBoxing.AutoboxingUnboxing.BankingAccount;
+package Lessons.ArraysAutoUnBoxing.AutoboxingUnboxing.BankingAccount;
 
 // You job is to create a simple banking application.
 // There should be a Bank class

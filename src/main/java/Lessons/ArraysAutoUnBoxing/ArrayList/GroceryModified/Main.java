@@ -1,4 +1,4 @@
-package main.java.Lessons.ArraysAutoUnBoxing.ArrayList.GroceryModified;
+package Lessons.ArraysAutoUnBoxing.ArrayList.GroceryModified;
 
 import java.util.Scanner;
 

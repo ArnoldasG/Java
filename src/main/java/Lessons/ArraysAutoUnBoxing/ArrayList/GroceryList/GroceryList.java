@@ -1,4 +1,4 @@
-package main.java.Lessons.ArraysAutoUnBoxing.ArrayList.GroceryList;
+package Lessons.ArraysAutoUnBoxing.ArrayList.GroceryList;
 
 import java.util.ArrayList;
 

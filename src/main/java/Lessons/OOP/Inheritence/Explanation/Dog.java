@@ -1,4 +1,4 @@
-package main.java.Lessons.OOP.Inheritence.Explanation;
+package Lessons.OOP.Inheritence.Explanation;
 
 // 1. Norėdami paveldėti Animal klasę ir viską joje mums reikia prirašyti "extends"
 public class Dog extends Animal {

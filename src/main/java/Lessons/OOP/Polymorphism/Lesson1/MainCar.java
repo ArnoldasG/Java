@@ -1,4 +1,4 @@
-package main.java.Lessons.OOP.Polymorphism.Lesson1;
+package Lessons.OOP.Polymorphism.Lesson1;
 
 class MainCar {
     private boolean engine;

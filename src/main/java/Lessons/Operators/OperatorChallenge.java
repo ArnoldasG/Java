@@ -1,4 +1,4 @@
-package main.java.Lessons.Operators;
+package Lessons.Operators;
 
 public class OperatorChallenge {
 

@@ -1,4 +1,4 @@
-package main.java.Lessons.OOP.Encapsulation;
+package Lessons.OOP.Encapsulation;
 
 public class EnhancedPlayer {
     private String name;

@@ -1,4 +1,4 @@
-package main.java.Lessons.ArraysAutoUnBoxing.ArrayList.MobilePhone;
+package Lessons.ArraysAutoUnBoxing.ArrayList.MobilePhone;
 
 import java.util.ArrayList;
 

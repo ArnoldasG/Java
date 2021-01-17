@@ -1,4 +1,4 @@
-package Exercises.OOP.Constructors.LessonGettersandSetters;
+package Lessons.OOP.Constructors.LessonGettersSetters;
 
 public class WallArea {
     private double height;

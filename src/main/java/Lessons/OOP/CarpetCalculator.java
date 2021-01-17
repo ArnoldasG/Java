@@ -1,4 +1,4 @@
-package main.java.Lessons.OOP;
+package Lessons.OOP;
 
 class CarpetCalculator {
 public static void main(String[] args) {

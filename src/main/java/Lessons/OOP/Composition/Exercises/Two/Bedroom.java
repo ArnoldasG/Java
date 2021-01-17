@@ -1,4 +1,4 @@
-package main.java.Lessons.OOP.Composition.Exercises.Two;
+package Lessons.OOP.Composition.Exercises.Two;
 
 public class Bedroom {
     private String name;

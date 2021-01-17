@@ -1,4 +1,4 @@
-package main.java.Lessons.OOP.Encapsulation.Exercises;
+package Lessons.OOP.Encapsulation.Exercises;
 
 public class Printer {
     private int tonerLevel;

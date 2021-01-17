@@ -1,4 +1,4 @@
-package main.java.Lessons.ArraysAutoUnBoxing.AutoboxingUnboxing.BankingAccount;
+package Lessons.ArraysAutoUnBoxing.AutoboxingUnboxing.BankingAccount;
 
 import java.util.ArrayList;
 

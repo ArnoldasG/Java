@@ -1,4 +1,4 @@
-package main.java.Lessons.OOP.Inheritence.Explanation;
+package Lessons.OOP.Inheritence.Explanation;
 
 public class Main {
 

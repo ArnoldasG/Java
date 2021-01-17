@@ -1,4 +1,4 @@
-package main.java.Lessons.OOP.Inheritence.Exercises;
+package Lessons.OOP.Inheritence.Exercises;
 
 public class Car extends Vehicle {
 
