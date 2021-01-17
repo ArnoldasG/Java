@@ -1,4 +1,4 @@
-package main.java.Lessons.Random;
+package main.java.Lessons.Exercises;
 
 public class Casting {
 

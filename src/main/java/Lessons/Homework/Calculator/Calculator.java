@@ -1,6 +1,5 @@
-package main.java.Lessons.Homework;
+package main.java.Lessons.Homework.Calculator;
 
-import javax.xml.stream.StreamFilter;
 import java.util.List;
 
 public class Calculator {

@@ -1,4 +1,4 @@
-package main.java.Lessons.Errors;
+package main.java.Lessons.InputOutput;
 
 import java.util.InputMismatchException;
 import java.util.Scanner;

@@ -1,4 +1,4 @@
-package main.java.Lessons.Homework;
+package main.java.Lessons.Homework.Calculator;
 
 public class Multiplication implements  CalculationOperation {
 
