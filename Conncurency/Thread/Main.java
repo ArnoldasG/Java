@@ -1,7 +1,5 @@
-package Exercises.Conncurency.Threads;
-
-import static Exercises.Conncurency.Threads.ThreadColor.ANSI_PURPLE;
-import static Exercises.Conncurency.Threads.ThreadColor.ANSI_RED;
+import static ThreadColor.ANSI_PURPLE;
+import static ThreadColor.ANSI_RED;
 // Importuojame spalvų klasę ir konkrečią spalvą kurią naudosime.
 
 public class Main {

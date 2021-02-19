@@ -1,5 +1,3 @@
-package Exercises.Conncurency.Threads;
-
 // L.2. Sukuriam klasę kuri implementuos "Runnable" metodą.
 public class MyRunnable implements Runnable {
     // L.2. Mums brauks raudonai nes reikia implementuoti RUN metodą.

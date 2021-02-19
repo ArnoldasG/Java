@@ -1,5 +1,4 @@
-package Exercises.Conncurency.Threads;
-    // Sukuria, kad galėtume naudoti spalvotą tekstą konsolėje.
+// Sukuria, kad galėtume naudoti spalvotą tekstą konsolėje.
 public class ThreadColor {
     public static final String ANSI_RESET = "\u001B[0m";
     public static final String ANSI_BLACK = "\u001B[30m";

@@ -1,5 +1,3 @@
-package Exercises.Conncurency.Threads;
-
 // Importuojame spalvų klasę ir konkrečią spalvą kurią naudosime.
 
 public class AnotherThread extends Thread {
