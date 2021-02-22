@@ -1,4 +1,4 @@
-package com.company;
+package Email_System_Administration;
 
 public class Main {
 
