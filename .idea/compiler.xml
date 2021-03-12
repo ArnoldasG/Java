@@ -6,11 +6,11 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="spring-di-setter-demo" />
+        <module name="spring-di-constructor-demo" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="spring-di-setter-demo" target="1.7" />
+      <module name="spring-di-constructor-demo" target="1.7" />
     </bytecodeTargetLevel>
   </component>
 </project>
