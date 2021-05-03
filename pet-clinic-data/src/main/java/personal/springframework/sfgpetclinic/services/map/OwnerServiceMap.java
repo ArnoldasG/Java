@@ -1,11 +1,13 @@
 package personal.springframework.sfgpetclinic.services.map;
 
 import personal.springframework.sfgpetclinic.model.Owner;
-import personal.springframework.sfgpetclinic.services.CrudService;
+
+import personal.springframework.sfgpetclinic.services.OwnerService;
 
 import java.util.Set;
 
-public class OwnerServiceMap extends AbstractMapService<Owner, Long> implements CrudService<Owner, Long> {
+public class OwnerServiceMap extends AbstractMapService<Owner, Long> implements OwnerService{
+
 
     // here i need to type super than this, because im extending class
     @Override
@@ -31,5 +33,10 @@ public class OwnerServiceMap extends AbstractMapService<Owner, Long> implements 
     @Override
     public void deleteById(Long id) {
         super.deleteById(id);
+    }
+
+    @Override
+    public Owner findByLastName(String lastName) {
+        return null;
     }
 }
