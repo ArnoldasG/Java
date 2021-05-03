@@ -6,9 +6,6 @@ public class BaseEntity implements Serializable {
 
     private Long id;
 
-
-
-
     // GETTERS AND SETTERS
 
     public Long getId() {
